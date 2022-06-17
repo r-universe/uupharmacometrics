@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "assemblerr"]
+	path = assemblerr
+	url = https://github.com/uupharmacometrics/assemblerr
+	shallow = true
+	registered = true
+[submodule "xpose"]
+	path = xpose
+	url = https://github.com/uupharmacometrics/xpose
+	shallow = true
+	registered = true
+[submodule "xpose4"]
+	path = xpose4
+	url = https://github.com/uupharmacometrics/xpose4
+	shallow = true
+	registered = true
