@@ -1,9 +1,5 @@
 [
   {
-    "package": "assemblerr",
-    "oncran": true
-  },
-  {
     "package": "xpose",
     "oncran": true
   },
